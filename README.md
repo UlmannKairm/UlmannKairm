@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UlmannKairm
+- 👋 Hi, I’m @UlmannKarim
 - 👀 I’m interested in Algortihms and Data Sturcutres, Networking and Machine Learning
 - 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on Many fun projects
